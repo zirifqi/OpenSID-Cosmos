@@ -171,6 +171,6 @@
 			</div>
 		</section>
 	<?php endif ?>
-	<?php $this->load->view($folder_themes . '/partials/apdes.php') ?>
+	<!-- <?php $this->load->view($folder_themes . '/partials/apdes.php') ?> -->
 </div>
 
