@@ -8,11 +8,11 @@
 
 Berikut tangkapan layar dari tampilan halaman depan tema `cosmos`
 
-![Tema Cosmos, Tema Web OpenSID yang responsif dan ciamik](https://i.postimg.cc/zXHwxDSk/laman-beranda2.png)
+![Open-SID-Cosmos-Halaman-Utama-Web-Desa.png](https://i.postimg.cc/dVXhB07y/Open-SID-Cosmos-Halaman-Utama-Web-Desa.png)
 
 Tampilan laman artikel tema `cosmos`
 
-![Tema Cosmos, Tema Web OpenSID yang responsif dan ciamik](https://i.postimg.cc/nzTn6QB9/laman-artikel.png)
+![Open-SID-Cosmos-Halaman-Artikel-Web-Desa.png](https://i.postimg.cc/rwzdx4pT/Open-SID-Cosmos-Halaman-Artikel-Web-Desa.png)
 
 ## Demo
 
