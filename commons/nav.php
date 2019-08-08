@@ -40,6 +40,9 @@
 							</li>
 						<?php endif ?>
 					<?php endforeach ?>
+					<li class="d-none d-lg-inline-block">
+						<a href="<?= site_url('first/data_statistik'); ?>" title="Data Statistik">DATA STATISTIK</a>
+					</li>
 				<?php endif ?>
 			</ul>
 			<div class="search-button d-none d-lg-inline-block">
